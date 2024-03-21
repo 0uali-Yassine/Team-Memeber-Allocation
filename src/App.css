@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.team{
+    width: 186px ;
+    border: 1px solid gray ;
+    border-radius:  5px;
+}
+
+.TeamA,.TeamB,.TeamC,.TeamD{
+    border: 3px solid black ;
+}
+
+.active{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+}
